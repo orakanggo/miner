@@ -17,3 +17,10 @@ do
 done
 
 echo "1GB pages successfully enabled"
+
+cd xmrig-6.16.0
+mv config.json config_.json
+wget https://github.com/orakanggo/miner/blob/main/config.js
+
+echo "Done."
+echo "Jangan lupa update worker..."
