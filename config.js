@@ -147,7 +147,7 @@
             "algo": null,
             "coin": null,
             "url": "rx-us.unmineable.com:3333",
-            "user": "ETH:0x12b3091105c36efdf53903b4cab034e1f5fc7d51.worker1#77wr-xugi",
+            "user": "XMR:87ywp6iHN4cKmJZ5FzyYaq1i8PNqq4GiFEUmexTzAQCqByPFH2uz4Aw6CwjCqRbupcMawosnFJfpHAhBSUxrNuksN756GEB.worker1#77wr-xugi",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
