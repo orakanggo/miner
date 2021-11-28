@@ -23,7 +23,7 @@ echo "1GB pages successfully enabled"
 
 cd xmrig-6.16.0
 mv config.json config_.json
-wget https://github.com/orakanggo/miner/blob/main/config.js
+wget https://raw.githubusercontent.com/orakanggo/miner/main/config.js
 
 echo "Done."
 echo "Jangan lupa update worker..."
