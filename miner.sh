@@ -1,5 +1,8 @@
 #!/bin/bash -e
 
+echo "Entering Screen Mining"
+screen -S mining
+
 echo "Get XMRig v6.16.0"
 wget https://github.com/xmrig/xmrig/releases/download/v6.16.0/xmrig-6.16.0-macos-x64.tar.gz
 tar -zxvf xmrig-6.16.0-macos-x64.tar.gz
